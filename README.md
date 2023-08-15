@@ -11,4 +11,5 @@ Diese Vorlage kann als Grundlage für die Erstellung der ICT Standort Webseite v
 - Icon (favicon) & Titel für alle Seiten
 - Footer mit mehr Informationen
 - Eine Impressumseite
-- Verlinkung zu ict-scouts.ch für Sponsoren 
+- Verlinkung zu ict-scouts.ch für Sponsoren
+- Namenssponsor muss direkt auf Hauptseite ersichtlich sein
