@@ -16,7 +16,7 @@ jobs:
       # Additional build or processing steps can be added here if necessary
 
       - name: FTP Deploy
-        uses: sebastianpopp/ftp-action
+        uses: sebastianpopp/ftp-action@releases/v2
         with:
           host: ${{ secrets.FTP_HOST }}
           user: ${{ secrets.FTP_USER }}
