@@ -26,3 +26,4 @@ jobs:
           # Local directory (default is the entire repository)
           localDir: '.'
           remoteDir: ${{ secrets.FTP_REMOTE }}
+          options: "--delete"
